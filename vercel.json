@@ -1,0 +1,9 @@
+{
+    "build": {
+      "env": {
+        "PATH": "/usr/local/bin:$PATH"
+      },
+      "command": "your-custom-build-command"
+    }
+  }
+  
